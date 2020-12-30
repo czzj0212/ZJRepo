@@ -1,0 +1,16 @@
+PODS:
+  - ZJZUJian (0.1.0)
+
+DEPENDENCIES:
+  - ZJZUJian (from `../`)
+
+EXTERNAL SOURCES:
+  ZJZUJian:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJZUJian: 3ef0a6191caefd535f625f33e6bdda1a24cf20bd
+
+PODFILE CHECKSUM: f0cb77a786ff9934e0556dd7aaa58fbd4a090031
+
+COCOAPODS: 1.9.1
