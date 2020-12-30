@@ -1,6 +1,0 @@
-framework module ZJZUJian {
-  umbrella header "ZJZUJian-umbrella.h"
-
-  export *
-  module * { export * }
-}
